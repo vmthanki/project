@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Lara
+                   vivek thanki
                 </div>
 
                 <div class="links">
